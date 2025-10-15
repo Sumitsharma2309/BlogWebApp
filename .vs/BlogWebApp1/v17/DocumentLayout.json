@@ -1,0 +1,780 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\models\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\models\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\post\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\post\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\helper\\removehtmltaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\helper\\removehtmltaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\auth\\acessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\auth\\acessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\models\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\models\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\models\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\models\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\models\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\models\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\data\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\data\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\migrations\\20251014104029_updateimagepathsormodelchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\migrations\\20251014104029_updateimagepathsormodelchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\migrations\\20251014050515_createinitialdatabasetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\migrations\\20251014050515_createinitialdatabasetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\blogwebapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\blogwebapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|c:\\users\\raps-sumit\\source\\repos\\blogwebapp1\\blogwebapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E47B7668-58BD-440B-9145-D728245B770E}|BlogWebApp1\\BlogWebApp1.csproj|solutionrelative:blogwebapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T04:10:54.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Post\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Post\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Post\\Delete.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Post\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T03:58:32.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\ViewModels\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Models\\ViewModels\\EditViewModel.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\ViewModels\\EditViewModel.cs",
+              "RelativeToolTip": "BlogWebApp1\\Models\\ViewModels\\EditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:18:42.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AcessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Auth\\AcessDenied.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Auth\\AcessDenied.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Auth\\AcessDenied.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Auth\\AcessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T12:18:22.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20251014104029_UpdateImagePathsOrModelChanges.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Migrations\\20251014104029_UpdateImagePathsOrModelChanges.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Migrations\\20251014104029_UpdateImagePathsOrModelChanges.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Migrations\\20251014104029_UpdateImagePathsOrModelChanges.cs",
+              "RelativeToolTip": "BlogWebApp1\\Migrations\\20251014104029_UpdateImagePathsOrModelChanges.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAuwB4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:40:29.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20251014050515_CreateInitialDatabaseTable.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Migrations\\20251014050515_CreateInitialDatabaseTable.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Migrations\\20251014050515_CreateInitialDatabaseTable.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Migrations\\20251014050515_CreateInitialDatabaseTable.cs",
+              "RelativeToolTip": "BlogWebApp1\\Migrations\\20251014050515_CreateInitialDatabaseTable.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:30:30.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:08:15.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Post\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Post\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Post\\Detail.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Post\\Detail.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwGcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T09:59:48.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BlogWebApp1\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwDgBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:46:36.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T08:28:41.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BlogWebApp1",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\BlogWebApp1.csproj",
+              "RelativeDocumentMoniker": "BlogWebApp1\\BlogWebApp1.csproj",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\BlogWebApp1.csproj",
+              "RelativeToolTip": "BlogWebApp1\\BlogWebApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-14T08:08:51.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Data\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Data\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Data\\DatabaseSeeder.cs",
+              "RelativeToolTip": "BlogWebApp1\\Data\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T07:30:06.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T07:15:51.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T07:15:48.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\ViewModels\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Models\\ViewModels\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\ViewModels\\SignUpViewModel.cs",
+              "RelativeToolTip": "BlogWebApp1\\Models\\ViewModels\\SignUpViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:49:58.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\ViewModels\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Models\\ViewModels\\SignInViewModel.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\ViewModels\\SignInViewModel.cs",
+              "RelativeToolTip": "BlogWebApp1\\Models\\ViewModels\\SignInViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:49:14.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BlogWebApp1\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwFgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:40:37.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BlogWebApp1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwFcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:39:47.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T06:38:45.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T06:38:19.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T06:37:45.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T06:37:26.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T06:36:16.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T06:35:07.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T06:33:39.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T05:16:10.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BlogWebApp1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BlogWebApp1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-14T05:10:04.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T05:07:49.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T05:07:48.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Post\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Post\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T05:07:35.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Post\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Post\\Create.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Post\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T05:07:29.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T05:07:26.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogWebApp1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T05:07:24.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\ViewModels\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Models\\ViewModels\\PostViewModel.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\ViewModels\\PostViewModel.cs",
+              "RelativeToolTip": "BlogWebApp1\\Models\\ViewModels\\PostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:07:19.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\Post.cs",
+              "RelativeToolTip": "BlogWebApp1\\Models\\Post.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:06:41.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BlogWebApp1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:06:40.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\Comment.cs",
+              "RelativeToolTip": "BlogWebApp1\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:06:38.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Models\\Category.cs",
+              "RelativeToolTip": "BlogWebApp1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:06:34.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogWebApp1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:58:34.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemoveHtmlTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Helper\\RemoveHtmlTagHelper.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Helper\\RemoveHtmlTagHelper.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Helper\\RemoveHtmlTagHelper.cs",
+              "RelativeToolTip": "BlogWebApp1\\Helper\\RemoveHtmlTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:56:53.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BlogWebApp1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:56:50.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Program.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Program.cs",
+              "RelativeToolTip": "BlogWebApp1\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:48:25.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogWebApp1\\appsettings.json",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\appsettings.json",
+              "RelativeToolTip": "BlogWebApp1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T04:48:06.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "BlogWebApp1\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\RAPS-Sumit\\source\\repos\\BlogWebApp1\\BlogWebApp1\\Controllers\\PostController.cs",
+              "RelativeToolTip": "BlogWebApp1\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:42:14.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
